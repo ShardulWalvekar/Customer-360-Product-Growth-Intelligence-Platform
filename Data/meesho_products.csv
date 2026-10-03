@@ -1,0 +1,501 @@
+SKU,Product_Name,Product_Category,Subcategory,Seller_ID,Supplier_Price,Base_Price,Discount_%,Product_Rating,Stock_Qty
+SKU-101,Kurti - Model 26,Ethnic Wear,Kurti,SELLER-0158,272.51,507.76,16.8,4.0,386
+SKU-102,Kurti - Model 43,Ethnic Wear,Kurti,SELLER-0101,129.6,203.2,24.0,3.7,167
+SKU-103,Kurti - Model 34,Ethnic Wear,Kurti,SELLER-0158,180.84,378.0,18.3,4.5,478
+SKU-104,Kurti - Model 55,Ethnic Wear,Kurti,SELLER-0183,365.46,792.21,0.0,3.6,733
+SKU-105,Kurti - Model 58,Ethnic Wear,Kurti,SELLER-0162,213.92,312.51,11.3,4.3,314
+SKU-106,Kurti - Model 11,Ethnic Wear,Kurti,SELLER-0130,368.26,672.34,23.9,4.8,302
+SKU-107,Kurti - Model 87,Ethnic Wear,Kurti,SELLER-0158,213.66,346.61,0.0,4.3,693
+SKU-108,Kurti - Model 31,Ethnic Wear,Kurti,SELLER-0124,333.76,691.03,0.0,3.3,313
+SKU-109,Kurti - Model 43,Ethnic Wear,Kurti,SELLER-0164,400.27,649.34,22.5,4.2,835
+SKU-110,Kurti - Model 11,Ethnic Wear,Kurti,SELLER-0109,429.6,840.17,24.3,4.7,218
+SKU-111,Kurti - Model 67,Ethnic Wear,Kurti,SELLER-0108,180.85,274.17,27.6,3.4,941
+SKU-112,Kurti - Model 76,Ethnic Wear,Kurti,SELLER-0158,103.23,215.59,17.9,3.7,714
+SKU-113,Kurti - Model 44,Ethnic Wear,Kurti,SELLER-0129,89.12,181.86,21.6,4.7,295
+SKU-114,Kurti - Model 80,Ethnic Wear,Kurti,SELLER-0141,194.97,406.62,0.0,3.7,209
+SKU-115,Kurti - Model 88,Ethnic Wear,Kurti,SELLER-0199,176.03,369.46,12.5,3.9,587
+SKU-116,Kurti - Model 59,Ethnic Wear,Kurti,SELLER-0190,347.88,648.81,18.9,4.3,602
+SKU-117,Kurti - Model 67,Ethnic Wear,Kurti,SELLER-0152,153.76,324.04,0.0,4.3,549
+SKU-118,Kurti - Model 31,Ethnic Wear,Kurti,SELLER-0140,242.5,416.81,0.0,4.0,517
+SKU-119,Kurti - Model 34,Ethnic Wear,Kurti,SELLER-0162,369.36,658.69,15.2,4.6,463
+SKU-120,Kurti - Model 30,Ethnic Wear,Kurti,SELLER-0109,354.01,527.64,26.1,3.6,590
+SKU-121,Kurti - Model 73,Ethnic Wear,Kurti,SELLER-0126,103.33,136.19,10.4,3.3,757
+SKU-122,Kurti - Model 25,Ethnic Wear,Kurti,SELLER-0151,237.31,493.7,15.6,3.7,740
+SKU-123,Kurti - Model 94,Ethnic Wear,Kurti,SELLER-0151,308.41,552.36,21.1,3.9,951
+SKU-124,Kurti - Model 60,Ethnic Wear,Kurti,SELLER-0123,426.21,583.22,0.0,3.7,633
+SKU-125,Kurti - Model 90,Ethnic Wear,Kurti,SELLER-0181,147.1,225.34,29.4,4.8,483
+SKU-126,Saree - Model 66,Ethnic Wear,Saree,SELLER-0106,445.15,761.32,16.1,4.3,581
+SKU-127,Saree - Model 95,Ethnic Wear,Saree,SELLER-0174,212.94,393.67,18.4,4.4,246
+SKU-128,Saree - Model 50,Ethnic Wear,Saree,SELLER-0120,301.13,406.42,24.6,3.5,826
+SKU-129,Saree - Model 18,Ethnic Wear,Saree,SELLER-0129,367.61,557.02,8.2,3.7,902
+SKU-130,Saree - Model 22,Ethnic Wear,Saree,SELLER-0109,207.97,329.26,26.4,4.8,620
+SKU-131,Saree - Model 24,Ethnic Wear,Saree,SELLER-0173,203.3,345.64,29.2,4.0,76
+SKU-132,Saree - Model 65,Ethnic Wear,Saree,SELLER-0159,254.7,429.09,9.9,4.7,264
+SKU-133,Saree - Model 22,Ethnic Wear,Saree,SELLER-0151,413.65,648.59,0.0,3.5,459
+SKU-134,Saree - Model 47,Ethnic Wear,Saree,SELLER-0121,209.05,457.6,29.0,3.6,761
+SKU-135,Saree - Model 32,Ethnic Wear,Saree,SELLER-0194,112.76,156.76,12.5,3.9,385
+SKU-136,Saree - Model 86,Ethnic Wear,Saree,SELLER-0109,188.13,344.26,26.2,4.5,824
+SKU-137,Saree - Model 67,Ethnic Wear,Saree,SELLER-0161,95.64,132.53,5.0,3.9,723
+SKU-138,Saree - Model 26,Ethnic Wear,Saree,SELLER-0148,284.19,417.18,0.0,3.7,994
+SKU-139,Saree - Model 37,Ethnic Wear,Saree,SELLER-0143,193.45,319.1,9.8,3.9,532
+SKU-140,Saree - Model 88,Ethnic Wear,Saree,SELLER-0166,270.78,547.83,15.9,3.9,479
+SKU-141,Saree - Model 90,Ethnic Wear,Saree,SELLER-0139,443.7,701.36,19.5,4.7,81
+SKU-142,Saree - Model 94,Ethnic Wear,Saree,SELLER-0152,424.42,625.84,0.0,3.9,509
+SKU-143,Saree - Model 34,Ethnic Wear,Saree,SELLER-0173,131.66,174.37,24.6,3.7,938
+SKU-144,Saree - Model 84,Ethnic Wear,Saree,SELLER-0138,134.32,248.34,0.0,3.3,678
+SKU-145,Saree - Model 32,Ethnic Wear,Saree,SELLER-0135,245.35,530.28,24.8,3.8,491
+SKU-146,Saree - Model 87,Ethnic Wear,Saree,SELLER-0185,258.83,546.05,0.0,4.2,262
+SKU-147,Saree - Model 74,Ethnic Wear,Saree,SELLER-0162,129.72,182.49,0.0,3.2,573
+SKU-148,Saree - Model 29,Ethnic Wear,Saree,SELLER-0193,299.06,524.78,25.5,4.2,904
+SKU-149,Saree - Model 15,Ethnic Wear,Saree,SELLER-0114,216.56,282.03,24.5,4.9,686
+SKU-150,Saree - Model 54,Ethnic Wear,Saree,SELLER-0139,261.33,439.88,29.7,3.3,693
+SKU-151,Lehenga - Model 59,Ethnic Wear,Lehenga,SELLER-0166,92.74,140.38,29.2,3.3,935
+SKU-152,Lehenga - Model 51,Ethnic Wear,Lehenga,SELLER-0188,443.69,684.65,5.4,4.6,837
+SKU-153,Lehenga - Model 35,Ethnic Wear,Lehenga,SELLER-0116,383.44,810.0,0.0,3.6,50
+SKU-154,Lehenga - Model 55,Ethnic Wear,Lehenga,SELLER-0164,176.94,259.6,7.7,4.7,402
+SKU-155,Lehenga - Model 44,Ethnic Wear,Lehenga,SELLER-0174,202.98,379.21,20.6,4.2,826
+SKU-156,Lehenga - Model 97,Ethnic Wear,Lehenga,SELLER-0161,300.24,652.08,26.1,4.9,686
+SKU-157,Lehenga - Model 94,Ethnic Wear,Lehenga,SELLER-0107,302.84,411.81,6.6,4.3,374
+SKU-158,Lehenga - Model 99,Ethnic Wear,Lehenga,SELLER-0173,127.67,270.39,29.5,3.7,699
+SKU-159,Lehenga - Model 36,Ethnic Wear,Lehenga,SELLER-0151,89.27,161.85,0.0,4.7,126
+SKU-160,Lehenga - Model 63,Ethnic Wear,Lehenga,SELLER-0167,85.03,168.42,29.6,4.3,809
+SKU-161,Lehenga - Model 63,Ethnic Wear,Lehenga,SELLER-0103,310.91,485.89,14.1,4.6,250
+SKU-162,Lehenga - Model 93,Ethnic Wear,Lehenga,SELLER-0135,411.1,716.8,0.0,3.2,647
+SKU-163,Lehenga - Model 62,Ethnic Wear,Lehenga,SELLER-0105,429.99,702.8,25.1,4.9,860
+SKU-164,Lehenga - Model 13,Ethnic Wear,Lehenga,SELLER-0146,161.56,325.54,15.8,3.5,365
+SKU-165,Lehenga - Model 96,Ethnic Wear,Lehenga,SELLER-0172,282.31,585.12,22.2,4.8,67
+SKU-166,Lehenga - Model 48,Ethnic Wear,Lehenga,SELLER-0177,263.32,405.05,0.0,4.7,388
+SKU-167,Lehenga - Model 51,Ethnic Wear,Lehenga,SELLER-0146,443.18,614.93,23.3,3.5,339
+SKU-168,Lehenga - Model 14,Ethnic Wear,Lehenga,SELLER-0143,410.14,768.91,24.8,4.8,346
+SKU-169,Lehenga - Model 22,Ethnic Wear,Lehenga,SELLER-0111,417.31,754.99,19.2,4.3,290
+SKU-170,Lehenga - Model 75,Ethnic Wear,Lehenga,SELLER-0183,367.16,501.63,24.2,4.0,753
+SKU-171,Lehenga - Model 13,Ethnic Wear,Lehenga,SELLER-0180,400.93,876.26,0.0,4.9,985
+SKU-172,Lehenga - Model 52,Ethnic Wear,Lehenga,SELLER-0187,266.59,580.78,22.9,3.6,243
+SKU-173,Lehenga - Model 87,Ethnic Wear,Lehenga,SELLER-0134,133.43,175.14,17.9,4.3,651
+SKU-174,Lehenga - Model 28,Ethnic Wear,Lehenga,SELLER-0142,366.26,735.8,13.1,4.1,254
+SKU-175,Lehenga - Model 87,Ethnic Wear,Lehenga,SELLER-0192,382.99,685.51,0.0,3.2,513
+SKU-176,Anarkali Suits - Model 70,Ethnic Wear,Anarkali Suits,SELLER-0127,358.06,514.91,18.8,4.1,630
+SKU-177,Anarkali Suits - Model 92,Ethnic Wear,Anarkali Suits,SELLER-0189,193.17,312.8,16.4,4.1,614
+SKU-178,Anarkali Suits - Model 19,Ethnic Wear,Anarkali Suits,SELLER-0125,174.85,230.83,22.3,3.4,330
+SKU-179,Anarkali Suits - Model 11,Ethnic Wear,Anarkali Suits,SELLER-0141,101.2,138.11,0.0,4.4,776
+SKU-180,Anarkali Suits - Model 59,Ethnic Wear,Anarkali Suits,SELLER-0110,262.88,349.67,0.0,3.7,889
+SKU-181,Anarkali Suits - Model 55,Ethnic Wear,Anarkali Suits,SELLER-0139,349.42,488.57,29.1,3.4,246
+SKU-182,Anarkali Suits - Model 95,Ethnic Wear,Anarkali Suits,SELLER-0133,267.34,372.45,19.6,4.4,219
+SKU-183,Anarkali Suits - Model 50,Ethnic Wear,Anarkali Suits,SELLER-0142,407.11,785.62,13.1,3.8,130
+SKU-184,Anarkali Suits - Model 44,Ethnic Wear,Anarkali Suits,SELLER-0135,117.42,169.06,24.1,4.5,627
+SKU-185,Anarkali Suits - Model 79,Ethnic Wear,Anarkali Suits,SELLER-0158,102.66,217.67,0.0,3.5,182
+SKU-186,Anarkali Suits - Model 25,Ethnic Wear,Anarkali Suits,SELLER-0143,133.89,204.87,15.8,3.4,956
+SKU-187,Anarkali Suits - Model 49,Ethnic Wear,Anarkali Suits,SELLER-0166,438.72,632.54,5.9,3.9,401
+SKU-188,Anarkali Suits - Model 27,Ethnic Wear,Anarkali Suits,SELLER-0187,232.19,317.81,0.0,4.6,472
+SKU-189,Anarkali Suits - Model 82,Ethnic Wear,Anarkali Suits,SELLER-0139,271.02,575.97,6.5,3.3,218
+SKU-190,Anarkali Suits - Model 36,Ethnic Wear,Anarkali Suits,SELLER-0129,441.54,583.11,19.5,3.8,427
+SKU-191,Anarkali Suits - Model 90,Ethnic Wear,Anarkali Suits,SELLER-0150,320.7,678.32,0.0,4.1,712
+SKU-192,Anarkali Suits - Model 34,Ethnic Wear,Anarkali Suits,SELLER-0150,266.83,370.76,0.0,3.7,962
+SKU-193,Anarkali Suits - Model 31,Ethnic Wear,Anarkali Suits,SELLER-0123,376.72,497.41,21.6,4.3,371
+SKU-194,Anarkali Suits - Model 35,Ethnic Wear,Anarkali Suits,SELLER-0166,329.35,682.96,21.0,3.8,678
+SKU-195,Anarkali Suits - Model 57,Ethnic Wear,Anarkali Suits,SELLER-0101,307.46,649.72,11.8,4.1,120
+SKU-196,Anarkali Suits - Model 65,Ethnic Wear,Anarkali Suits,SELLER-0170,165.63,238.04,17.3,3.3,766
+SKU-197,Anarkali Suits - Model 74,Ethnic Wear,Anarkali Suits,SELLER-0163,148.46,231.3,28.8,4.6,431
+SKU-198,Anarkali Suits - Model 84,Ethnic Wear,Anarkali Suits,SELLER-0111,419.05,889.19,27.6,4.2,815
+SKU-199,Anarkali Suits - Model 20,Ethnic Wear,Anarkali Suits,SELLER-0148,205.64,284.19,13.9,4.9,426
+SKU-200,Anarkali Suits - Model 31,Ethnic Wear,Anarkali Suits,SELLER-0180,236.95,360.67,8.4,4.0,181
+SKU-201,Jeans - Model 80,Western Wear,Jeans,SELLER-0140,132.37,264.63,21.1,3.5,597
+SKU-202,Jeans - Model 17,Western Wear,Jeans,SELLER-0185,139.98,294.24,21.1,4.0,226
+SKU-203,Jeans - Model 59,Western Wear,Jeans,SELLER-0141,366.73,692.53,0.0,3.6,83
+SKU-204,Jeans - Model 49,Western Wear,Jeans,SELLER-0181,204.17,355.58,29.7,3.6,347
+SKU-205,Jeans - Model 56,Western Wear,Jeans,SELLER-0198,399.44,568.59,6.5,3.3,191
+SKU-206,Jeans - Model 45,Western Wear,Jeans,SELLER-0109,161.25,211.83,0.0,3.3,484
+SKU-207,Jeans - Model 48,Western Wear,Jeans,SELLER-0140,148.42,230.61,17.0,4.4,743
+SKU-208,Jeans - Model 13,Western Wear,Jeans,SELLER-0148,204.25,432.5,0.0,3.4,539
+SKU-209,Jeans - Model 70,Western Wear,Jeans,SELLER-0104,428.7,606.27,0.0,3.7,527
+SKU-210,Jeans - Model 61,Western Wear,Jeans,SELLER-0180,425.96,735.09,29.2,4.8,762
+SKU-211,Jeans - Model 33,Western Wear,Jeans,SELLER-0145,229.05,419.73,12.6,3.3,406
+SKU-212,Jeans - Model 11,Western Wear,Jeans,SELLER-0158,335.67,673.9,14.5,3.5,507
+SKU-213,Jeans - Model 61,Western Wear,Jeans,SELLER-0125,160.57,268.12,0.0,3.3,165
+SKU-214,Jeans - Model 23,Western Wear,Jeans,SELLER-0179,399.52,698.84,0.0,4.8,414
+SKU-215,Jeans - Model 91,Western Wear,Jeans,SELLER-0124,127.41,176.54,0.0,4.6,901
+SKU-216,Jeans - Model 71,Western Wear,Jeans,SELLER-0102,350.92,501.17,14.2,4.2,278
+SKU-217,Jeans - Model 40,Western Wear,Jeans,SELLER-0184,345.56,492.24,7.1,3.7,267
+SKU-218,Jeans - Model 24,Western Wear,Jeans,SELLER-0153,411.15,886.03,15.2,4.7,950
+SKU-219,Jeans - Model 95,Western Wear,Jeans,SELLER-0161,193.74,305.46,19.6,3.3,167
+SKU-220,Jeans - Model 24,Western Wear,Jeans,SELLER-0178,448.52,908.87,27.4,4.5,170
+SKU-221,Jeans - Model 57,Western Wear,Jeans,SELLER-0164,281.71,481.24,0.0,3.3,251
+SKU-222,Jeans - Model 73,Western Wear,Jeans,SELLER-0116,199.13,324.99,15.0,3.5,358
+SKU-223,Jeans - Model 26,Western Wear,Jeans,SELLER-0127,229.19,334.61,13.5,4.1,788
+SKU-224,Jeans - Model 46,Western Wear,Jeans,SELLER-0192,219.24,399.6,0.0,3.3,337
+SKU-225,Jeans - Model 69,Western Wear,Jeans,SELLER-0183,284.03,457.79,0.0,4.3,415
+SKU-226,Tops - Model 92,Western Wear,Tops,SELLER-0189,250.02,339.76,25.5,4.0,314
+SKU-227,Tops - Model 90,Western Wear,Tops,SELLER-0140,183.26,248.21,25.6,4.5,666
+SKU-228,Tops - Model 42,Western Wear,Tops,SELLER-0122,182.19,390.52,25.6,3.9,488
+SKU-229,Tops - Model 16,Western Wear,Tops,SELLER-0137,194.54,385.23,23.4,3.4,601
+SKU-230,Tops - Model 77,Western Wear,Tops,SELLER-0110,230.63,409.02,22.9,4.3,352
+SKU-231,Tops - Model 67,Western Wear,Tops,SELLER-0160,186.64,312.78,23.5,3.8,178
+SKU-232,Tops - Model 69,Western Wear,Tops,SELLER-0131,335.9,509.94,7.6,4.1,872
+SKU-233,Tops - Model 76,Western Wear,Tops,SELLER-0114,197.53,344.88,8.0,3.6,393
+SKU-234,Tops - Model 45,Western Wear,Tops,SELLER-0181,363.97,680.49,16.0,4.0,876
+SKU-235,Tops - Model 13,Western Wear,Tops,SELLER-0193,250.3,501.93,0.0,4.7,707
+SKU-236,Tops - Model 17,Western Wear,Tops,SELLER-0140,313.44,512.77,5.7,3.2,546
+SKU-237,Tops - Model 35,Western Wear,Tops,SELLER-0114,367.2,564.01,0.0,3.5,409
+SKU-238,Tops - Model 85,Western Wear,Tops,SELLER-0123,120.12,175.99,13.9,4.0,180
+SKU-239,Tops - Model 43,Western Wear,Tops,SELLER-0107,215.69,346.77,20.7,3.8,908
+SKU-240,Tops - Model 23,Western Wear,Tops,SELLER-0164,253.58,474.5,13.0,4.8,463
+SKU-241,Tops - Model 49,Western Wear,Tops,SELLER-0120,360.94,712.48,0.0,3.7,567
+SKU-242,Tops - Model 27,Western Wear,Tops,SELLER-0120,88.76,125.55,0.0,3.2,349
+SKU-243,Tops - Model 83,Western Wear,Tops,SELLER-0152,95.53,138.11,22.9,4.8,947
+SKU-244,Tops - Model 97,Western Wear,Tops,SELLER-0114,347.95,613.16,20.6,4.0,287
+SKU-245,Tops - Model 66,Western Wear,Tops,SELLER-0122,218.35,294.65,0.0,3.5,170
+SKU-246,Tops - Model 83,Western Wear,Tops,SELLER-0144,224.2,460.85,24.7,3.3,800
+SKU-247,Tops - Model 10,Western Wear,Tops,SELLER-0155,349.47,467.42,14.7,4.3,739
+SKU-248,Tops - Model 52,Western Wear,Tops,SELLER-0170,272.34,420.84,10.4,3.6,978
+SKU-249,Tops - Model 43,Western Wear,Tops,SELLER-0110,118.29,232.85,24.9,4.4,83
+SKU-250,Tops - Model 78,Western Wear,Tops,SELLER-0173,218.86,364.08,0.0,3.3,858
+SKU-251,Dresses - Model 62,Western Wear,Dresses,SELLER-0119,170.63,250.46,8.0,4.8,527
+SKU-252,Dresses - Model 50,Western Wear,Dresses,SELLER-0116,302.85,522.57,27.3,3.9,395
+SKU-253,Dresses - Model 76,Western Wear,Dresses,SELLER-0156,210.85,289.4,0.0,4.6,326
+SKU-254,Dresses - Model 32,Western Wear,Dresses,SELLER-0123,92.14,188.35,10.4,4.5,96
+SKU-255,Dresses - Model 68,Western Wear,Dresses,SELLER-0159,142.3,203.36,20.4,4.8,941
+SKU-256,Dresses - Model 52,Western Wear,Dresses,SELLER-0165,289.57,567.7,12.3,4.1,457
+SKU-257,Dresses - Model 14,Western Wear,Dresses,SELLER-0111,259.87,429.49,21.0,4.3,592
+SKU-258,Dresses - Model 67,Western Wear,Dresses,SELLER-0128,415.06,824.59,8.0,3.3,261
+SKU-259,Dresses - Model 14,Western Wear,Dresses,SELLER-0184,209.53,401.95,28.6,4.1,422
+SKU-260,Dresses - Model 31,Western Wear,Dresses,SELLER-0119,157.84,275.34,0.0,3.7,586
+SKU-261,Dresses - Model 13,Western Wear,Dresses,SELLER-0151,321.6,600.19,0.0,4.1,674
+SKU-262,Dresses - Model 61,Western Wear,Dresses,SELLER-0171,172.63,229.8,28.2,4.4,478
+SKU-263,Dresses - Model 23,Western Wear,Dresses,SELLER-0151,347.87,566.95,8.2,4.2,251
+SKU-264,Dresses - Model 94,Western Wear,Dresses,SELLER-0176,291.2,393.16,0.0,4.7,736
+SKU-265,Dresses - Model 58,Western Wear,Dresses,SELLER-0110,354.27,655.89,5.9,4.0,439
+SKU-266,Dresses - Model 19,Western Wear,Dresses,SELLER-0107,135.06,249.81,23.9,4.3,425
+SKU-267,Dresses - Model 43,Western Wear,Dresses,SELLER-0138,110.54,218.14,11.6,4.0,937
+SKU-268,Dresses - Model 14,Western Wear,Dresses,SELLER-0122,308.64,516.35,5.8,3.2,379
+SKU-269,Dresses - Model 62,Western Wear,Dresses,SELLER-0200,385.97,560.25,25.4,4.9,330
+SKU-270,Dresses - Model 60,Western Wear,Dresses,SELLER-0186,179.35,285.7,14.9,3.7,828
+SKU-271,Dresses - Model 55,Western Wear,Dresses,SELLER-0112,111.46,204.4,13.0,3.9,290
+SKU-272,Dresses - Model 32,Western Wear,Dresses,SELLER-0124,329.12,571.58,0.0,3.4,883
+SKU-273,Dresses - Model 72,Western Wear,Dresses,SELLER-0166,204.61,299.09,9.3,4.0,865
+SKU-274,Dresses - Model 84,Western Wear,Dresses,SELLER-0110,230.01,359.29,0.0,3.4,951
+SKU-275,Dresses - Model 87,Western Wear,Dresses,SELLER-0119,421.9,642.17,0.0,4.1,388
+SKU-276,Jackets - Model 71,Western Wear,Jackets,SELLER-0150,112.06,186.55,9.0,4.3,933
+SKU-277,Jackets - Model 56,Western Wear,Jackets,SELLER-0167,412.31,729.14,10.9,3.9,561
+SKU-278,Jackets - Model 84,Western Wear,Jackets,SELLER-0172,160.03,351.65,0.0,4.1,800
+SKU-279,Jackets - Model 34,Western Wear,Jackets,SELLER-0161,269.16,444.96,13.8,4.3,236
+SKU-280,Jackets - Model 59,Western Wear,Jackets,SELLER-0154,273.31,449.4,18.6,3.2,652
+SKU-281,Jackets - Model 57,Western Wear,Jackets,SELLER-0154,204.28,274.91,0.0,4.6,546
+SKU-282,Jackets - Model 56,Western Wear,Jackets,SELLER-0102,307.89,591.99,5.4,4.0,55
+SKU-283,Jackets - Model 89,Western Wear,Jackets,SELLER-0120,287.32,434.25,0.0,4.6,321
+SKU-284,Jackets - Model 28,Western Wear,Jackets,SELLER-0188,121.24,245.39,0.0,4.6,560
+SKU-285,Jackets - Model 82,Western Wear,Jackets,SELLER-0130,294.15,549.41,29.7,4.4,687
+SKU-286,Jackets - Model 45,Western Wear,Jackets,SELLER-0174,201.26,290.22,23.5,3.4,302
+SKU-287,Jackets - Model 41,Western Wear,Jackets,SELLER-0151,350.46,730.69,8.5,3.7,745
+SKU-288,Jackets - Model 70,Western Wear,Jackets,SELLER-0123,375.34,661.93,20.4,3.8,564
+SKU-289,Jackets - Model 23,Western Wear,Jackets,SELLER-0181,416.69,697.87,0.0,4.1,653
+SKU-290,Jackets - Model 74,Western Wear,Jackets,SELLER-0197,91.4,162.77,11.6,4.3,286
+SKU-291,Jackets - Model 60,Western Wear,Jackets,SELLER-0193,145.49,208.33,0.0,3.7,898
+SKU-292,Jackets - Model 26,Western Wear,Jackets,SELLER-0124,259.04,477.17,0.0,4.0,866
+SKU-293,Jackets - Model 27,Western Wear,Jackets,SELLER-0189,340.38,658.79,0.0,4.7,154
+SKU-294,Jackets - Model 50,Western Wear,Jackets,SELLER-0145,168.1,266.96,14.8,4.7,242
+SKU-295,Jackets - Model 33,Western Wear,Jackets,SELLER-0173,424.97,721.74,7.1,4.3,396
+SKU-296,Jackets - Model 99,Western Wear,Jackets,SELLER-0200,369.1,620.04,9.3,4.8,903
+SKU-297,Jackets - Model 85,Western Wear,Jackets,SELLER-0142,405.14,608.63,15.7,4.4,803
+SKU-298,Jackets - Model 53,Western Wear,Jackets,SELLER-0160,199.77,286.48,14.9,3.7,540
+SKU-299,Jackets - Model 18,Western Wear,Jackets,SELLER-0188,114.6,157.82,8.4,3.2,208
+SKU-300,Jackets - Model 34,Western Wear,Jackets,SELLER-0195,292.14,533.05,0.0,3.6,459
+SKU-301,Bedsheets - Model 52,Home & Kitchen,Bedsheets,SELLER-0147,398.34,795.78,15.8,4.4,928
+SKU-302,Bedsheets - Model 75,Home & Kitchen,Bedsheets,SELLER-0144,448.85,901.74,16.5,4.5,480
+SKU-303,Bedsheets - Model 93,Home & Kitchen,Bedsheets,SELLER-0147,211.42,392.56,6.9,4.8,438
+SKU-304,Bedsheets - Model 62,Home & Kitchen,Bedsheets,SELLER-0175,243.84,330.48,0.0,3.5,331
+SKU-305,Bedsheets - Model 49,Home & Kitchen,Bedsheets,SELLER-0174,342.42,689.52,7.6,3.7,511
+SKU-306,Bedsheets - Model 95,Home & Kitchen,Bedsheets,SELLER-0101,353.04,521.58,29.3,3.7,156
+SKU-307,Bedsheets - Model 63,Home & Kitchen,Bedsheets,SELLER-0120,239.04,336.49,24.1,4.4,329
+SKU-308,Bedsheets - Model 28,Home & Kitchen,Bedsheets,SELLER-0124,133.7,277.03,8.3,4.3,879
+SKU-309,Bedsheets - Model 85,Home & Kitchen,Bedsheets,SELLER-0162,150.97,265.99,26.8,4.4,78
+SKU-310,Bedsheets - Model 39,Home & Kitchen,Bedsheets,SELLER-0133,244.19,340.29,5.8,3.5,1000
+SKU-311,Bedsheets - Model 56,Home & Kitchen,Bedsheets,SELLER-0170,167.47,302.04,0.0,4.5,290
+SKU-312,Bedsheets - Model 31,Home & Kitchen,Bedsheets,SELLER-0161,117.41,184.17,0.0,4.8,139
+SKU-313,Bedsheets - Model 37,Home & Kitchen,Bedsheets,SELLER-0141,320.57,627.89,22.7,4.9,117
+SKU-314,Bedsheets - Model 99,Home & Kitchen,Bedsheets,SELLER-0157,436.32,804.97,29.2,4.7,439
+SKU-315,Bedsheets - Model 39,Home & Kitchen,Bedsheets,SELLER-0126,361.09,554.3,22.5,4.7,936
+SKU-316,Bedsheets - Model 37,Home & Kitchen,Bedsheets,SELLER-0132,426.61,797.92,9.2,3.7,546
+SKU-317,Bedsheets - Model 62,Home & Kitchen,Bedsheets,SELLER-0170,291.43,415.77,5.8,4.8,186
+SKU-318,Bedsheets - Model 82,Home & Kitchen,Bedsheets,SELLER-0183,298.99,584.0,18.8,3.3,574
+SKU-319,Bedsheets - Model 48,Home & Kitchen,Bedsheets,SELLER-0145,250.52,477.7,28.9,4.9,824
+SKU-320,Bedsheets - Model 82,Home & Kitchen,Bedsheets,SELLER-0185,318.43,692.48,9.4,4.8,661
+SKU-321,Bedsheets - Model 87,Home & Kitchen,Bedsheets,SELLER-0126,119.51,187.89,0.0,3.9,152
+SKU-322,Bedsheets - Model 35,Home & Kitchen,Bedsheets,SELLER-0128,420.64,912.67,0.0,3.6,527
+SKU-323,Bedsheets - Model 98,Home & Kitchen,Bedsheets,SELLER-0138,394.02,541.21,0.0,4.6,376
+SKU-324,Bedsheets - Model 44,Home & Kitchen,Bedsheets,SELLER-0131,163.81,313.49,21.7,4.4,292
+SKU-325,Bedsheets - Model 58,Home & Kitchen,Bedsheets,SELLER-0161,108.94,190.46,0.0,3.2,670
+SKU-326,Curtains - Model 57,Home & Kitchen,Curtains,SELLER-0131,377.7,550.18,18.2,4.5,359
+SKU-327,Curtains - Model 10,Home & Kitchen,Curtains,SELLER-0185,334.36,621.78,29.7,3.9,194
+SKU-328,Curtains - Model 16,Home & Kitchen,Curtains,SELLER-0135,112.96,190.57,6.6,4.5,158
+SKU-329,Curtains - Model 92,Home & Kitchen,Curtains,SELLER-0149,408.88,734.66,16.3,4.5,621
+SKU-330,Curtains - Model 59,Home & Kitchen,Curtains,SELLER-0189,175.4,380.29,0.0,4.5,169
+SKU-331,Curtains - Model 87,Home & Kitchen,Curtains,SELLER-0119,316.13,508.99,16.3,3.8,868
+SKU-332,Curtains - Model 10,Home & Kitchen,Curtains,SELLER-0134,224.7,312.9,0.0,4.4,604
+SKU-333,Curtains - Model 44,Home & Kitchen,Curtains,SELLER-0107,163.88,341.81,0.0,3.8,394
+SKU-334,Curtains - Model 46,Home & Kitchen,Curtains,SELLER-0145,242.8,494.5,19.5,3.4,182
+SKU-335,Curtains - Model 55,Home & Kitchen,Curtains,SELLER-0185,358.39,664.76,15.2,4.4,273
+SKU-336,Curtains - Model 75,Home & Kitchen,Curtains,SELLER-0143,319.14,460.97,9.7,3.4,265
+SKU-337,Curtains - Model 29,Home & Kitchen,Curtains,SELLER-0180,309.28,521.06,27.4,4.7,257
+SKU-338,Curtains - Model 55,Home & Kitchen,Curtains,SELLER-0169,338.73,644.95,7.7,4.2,953
+SKU-339,Curtains - Model 69,Home & Kitchen,Curtains,SELLER-0153,171.48,278.79,22.6,4.3,201
+SKU-340,Curtains - Model 28,Home & Kitchen,Curtains,SELLER-0143,343.67,662.55,0.0,4.0,466
+SKU-341,Curtains - Model 35,Home & Kitchen,Curtains,SELLER-0154,229.94,402.93,0.0,4.0,168
+SKU-342,Curtains - Model 65,Home & Kitchen,Curtains,SELLER-0148,398.65,864.55,23.9,3.8,249
+SKU-343,Curtains - Model 87,Home & Kitchen,Curtains,SELLER-0135,422.34,855.71,19.2,4.2,564
+SKU-344,Curtains - Model 94,Home & Kitchen,Curtains,SELLER-0117,304.56,543.43,0.0,4.6,671
+SKU-345,Curtains - Model 83,Home & Kitchen,Curtains,SELLER-0194,250.84,360.06,22.4,3.7,507
+SKU-346,Curtains - Model 84,Home & Kitchen,Curtains,SELLER-0127,339.3,675.84,0.0,3.6,369
+SKU-347,Curtains - Model 82,Home & Kitchen,Curtains,SELLER-0191,123.92,178.82,0.0,3.6,789
+SKU-348,Curtains - Model 14,Home & Kitchen,Curtains,SELLER-0175,228.51,470.36,0.0,4.7,613
+SKU-349,Curtains - Model 56,Home & Kitchen,Curtains,SELLER-0164,176.83,279.09,14.3,4.5,758
+SKU-350,Curtains - Model 72,Home & Kitchen,Curtains,SELLER-0182,335.57,735.78,10.0,3.6,522
+SKU-351,Cookware - Model 65,Home & Kitchen,Cookware,SELLER-0149,425.55,859.56,0.0,4.8,858
+SKU-352,Cookware - Model 94,Home & Kitchen,Cookware,SELLER-0157,291.03,537.5,21.7,3.2,78
+SKU-353,Cookware - Model 60,Home & Kitchen,Cookware,SELLER-0191,322.57,641.88,7.5,4.6,73
+SKU-354,Cookware - Model 72,Home & Kitchen,Cookware,SELLER-0122,385.83,837.12,0.0,4.6,155
+SKU-355,Cookware - Model 56,Home & Kitchen,Cookware,SELLER-0193,95.45,134.25,17.5,4.1,627
+SKU-356,Cookware - Model 29,Home & Kitchen,Cookware,SELLER-0118,99.48,142.18,23.9,3.6,79
+SKU-357,Cookware - Model 10,Home & Kitchen,Cookware,SELLER-0123,296.5,480.42,0.0,4.5,361
+SKU-358,Cookware - Model 66,Home & Kitchen,Cookware,SELLER-0133,414.06,847.2,20.4,3.3,405
+SKU-359,Cookware - Model 57,Home & Kitchen,Cookware,SELLER-0142,126.82,219.83,0.0,4.3,308
+SKU-360,Cookware - Model 88,Home & Kitchen,Cookware,SELLER-0164,207.62,401.13,0.0,3.8,607
+SKU-361,Cookware - Model 46,Home & Kitchen,Cookware,SELLER-0137,130.47,214.49,0.0,4.6,301
+SKU-362,Cookware - Model 91,Home & Kitchen,Cookware,SELLER-0172,281.29,443.53,15.4,3.3,990
+SKU-363,Cookware - Model 15,Home & Kitchen,Cookware,SELLER-0127,343.79,620.65,19.0,3.7,263
+SKU-364,Cookware - Model 15,Home & Kitchen,Cookware,SELLER-0116,236.23,317.52,24.7,4.3,807
+SKU-365,Cookware - Model 43,Home & Kitchen,Cookware,SELLER-0175,95.18,155.1,11.1,4.9,999
+SKU-366,Cookware - Model 25,Home & Kitchen,Cookware,SELLER-0163,332.65,653.78,9.9,3.7,753
+SKU-367,Cookware - Model 93,Home & Kitchen,Cookware,SELLER-0130,426.06,825.62,0.0,4.5,904
+SKU-368,Cookware - Model 68,Home & Kitchen,Cookware,SELLER-0115,282.41,574.99,7.5,4.6,213
+SKU-369,Cookware - Model 21,Home & Kitchen,Cookware,SELLER-0150,328.1,687.73,19.2,4.8,118
+SKU-370,Cookware - Model 77,Home & Kitchen,Cookware,SELLER-0149,250.68,469.09,21.9,4.3,893
+SKU-371,Cookware - Model 13,Home & Kitchen,Cookware,SELLER-0170,376.9,805.11,0.0,4.7,990
+SKU-372,Cookware - Model 79,Home & Kitchen,Cookware,SELLER-0172,169.17,280.69,17.0,3.2,741
+SKU-373,Cookware - Model 27,Home & Kitchen,Cookware,SELLER-0186,373.44,636.62,11.0,3.8,367
+SKU-374,Cookware - Model 44,Home & Kitchen,Cookware,SELLER-0185,103.62,141.19,9.7,3.7,849
+SKU-375,Cookware - Model 67,Home & Kitchen,Cookware,SELLER-0189,148.38,245.07,19.1,3.9,363
+SKU-376,Kitchen Tools - Model 12,Home & Kitchen,Kitchen Tools,SELLER-0185,138.02,241.81,0.0,4.3,108
+SKU-377,Kitchen Tools - Model 38,Home & Kitchen,Kitchen Tools,SELLER-0110,255.71,411.82,0.0,3.7,671
+SKU-378,Kitchen Tools - Model 15,Home & Kitchen,Kitchen Tools,SELLER-0177,317.8,600.45,14.1,4.0,583
+SKU-379,Kitchen Tools - Model 58,Home & Kitchen,Kitchen Tools,SELLER-0179,169.37,272.01,21.0,4.8,901
+SKU-380,Kitchen Tools - Model 21,Home & Kitchen,Kitchen Tools,SELLER-0104,221.69,431.44,0.0,3.6,582
+SKU-381,Kitchen Tools - Model 33,Home & Kitchen,Kitchen Tools,SELLER-0157,222.08,485.85,28.7,3.7,735
+SKU-382,Kitchen Tools - Model 16,Home & Kitchen,Kitchen Tools,SELLER-0123,336.13,611.36,20.4,4.4,291
+SKU-383,Kitchen Tools - Model 81,Home & Kitchen,Kitchen Tools,SELLER-0147,282.7,551.86,5.7,3.2,994
+SKU-384,Kitchen Tools - Model 24,Home & Kitchen,Kitchen Tools,SELLER-0182,338.77,715.86,22.0,4.4,360
+SKU-385,Kitchen Tools - Model 49,Home & Kitchen,Kitchen Tools,SELLER-0171,394.21,686.78,0.0,4.0,108
+SKU-386,Kitchen Tools - Model 56,Home & Kitchen,Kitchen Tools,SELLER-0114,375.46,766.41,29.3,3.2,243
+SKU-387,Kitchen Tools - Model 96,Home & Kitchen,Kitchen Tools,SELLER-0118,142.92,278.74,13.2,4.2,187
+SKU-388,Kitchen Tools - Model 54,Home & Kitchen,Kitchen Tools,SELLER-0200,172.92,364.38,29.9,3.6,126
+SKU-389,Kitchen Tools - Model 13,Home & Kitchen,Kitchen Tools,SELLER-0127,145.1,278.89,0.0,3.3,705
+SKU-390,Kitchen Tools - Model 72,Home & Kitchen,Kitchen Tools,SELLER-0117,268.03,364.74,27.7,4.7,514
+SKU-391,Kitchen Tools - Model 32,Home & Kitchen,Kitchen Tools,SELLER-0177,206.38,422.94,13.9,4.8,209
+SKU-392,Kitchen Tools - Model 65,Home & Kitchen,Kitchen Tools,SELLER-0128,251.42,472.48,20.2,4.5,720
+SKU-393,Kitchen Tools - Model 37,Home & Kitchen,Kitchen Tools,SELLER-0127,339.72,685.24,0.0,3.4,446
+SKU-394,Kitchen Tools - Model 64,Home & Kitchen,Kitchen Tools,SELLER-0156,389.2,724.18,0.0,4.7,550
+SKU-395,Kitchen Tools - Model 46,Home & Kitchen,Kitchen Tools,SELLER-0154,139.34,288.15,0.0,3.8,961
+SKU-396,Kitchen Tools - Model 54,Home & Kitchen,Kitchen Tools,SELLER-0172,145.52,270.71,14.9,3.8,213
+SKU-397,Kitchen Tools - Model 18,Home & Kitchen,Kitchen Tools,SELLER-0175,433.12,796.13,26.1,3.3,967
+SKU-398,Kitchen Tools - Model 82,Home & Kitchen,Kitchen Tools,SELLER-0139,403.68,552.06,0.0,3.8,263
+SKU-399,Kitchen Tools - Model 66,Home & Kitchen,Kitchen Tools,SELLER-0155,393.01,778.06,27.7,4.9,229
+SKU-400,Kitchen Tools - Model 54,Home & Kitchen,Kitchen Tools,SELLER-0154,426.02,848.92,15.7,3.7,559
+SKU-401,Lipstick - Model 65,Beauty & Footwear,Lipstick,SELLER-0154,295.92,624.03,17.4,4.4,379
+SKU-402,Lipstick - Model 25,Beauty & Footwear,Lipstick,SELLER-0172,230.53,375.49,14.9,4.2,842
+SKU-403,Lipstick - Model 84,Beauty & Footwear,Lipstick,SELLER-0153,421.65,876.14,0.0,3.8,706
+SKU-404,Lipstick - Model 10,Beauty & Footwear,Lipstick,SELLER-0141,308.01,642.56,15.3,4.0,367
+SKU-405,Lipstick - Model 31,Beauty & Footwear,Lipstick,SELLER-0155,177.07,382.77,13.9,4.6,608
+SKU-406,Lipstick - Model 16,Beauty & Footwear,Lipstick,SELLER-0200,190.78,316.25,22.3,4.3,275
+SKU-407,Lipstick - Model 74,Beauty & Footwear,Lipstick,SELLER-0191,369.42,755.77,5.8,3.7,477
+SKU-408,Lipstick - Model 28,Beauty & Footwear,Lipstick,SELLER-0198,251.93,327.52,21.0,3.2,679
+SKU-409,Lipstick - Model 30,Beauty & Footwear,Lipstick,SELLER-0124,203.81,285.11,25.3,4.2,228
+SKU-410,Lipstick - Model 84,Beauty & Footwear,Lipstick,SELLER-0187,346.91,533.86,29.5,4.7,187
+SKU-411,Lipstick - Model 73,Beauty & Footwear,Lipstick,SELLER-0149,170.09,367.51,0.0,4.7,573
+SKU-412,Lipstick - Model 69,Beauty & Footwear,Lipstick,SELLER-0134,298.34,514.39,0.0,4.3,184
+SKU-413,Lipstick - Model 96,Beauty & Footwear,Lipstick,SELLER-0177,430.7,666.82,19.0,3.6,609
+SKU-414,Lipstick - Model 50,Beauty & Footwear,Lipstick,SELLER-0129,412.1,902.88,0.0,4.1,726
+SKU-415,Lipstick - Model 47,Beauty & Footwear,Lipstick,SELLER-0174,305.37,626.74,26.1,3.3,654
+SKU-416,Lipstick - Model 54,Beauty & Footwear,Lipstick,SELLER-0129,429.28,914.38,20.0,3.8,186
+SKU-417,Lipstick - Model 80,Beauty & Footwear,Lipstick,SELLER-0192,255.19,487.82,0.0,4.9,635
+SKU-418,Lipstick - Model 98,Beauty & Footwear,Lipstick,SELLER-0106,104.32,144.05,23.9,4.0,834
+SKU-419,Lipstick - Model 18,Beauty & Footwear,Lipstick,SELLER-0116,109.44,230.3,10.2,4.6,628
+SKU-420,Lipstick - Model 79,Beauty & Footwear,Lipstick,SELLER-0179,345.66,738.46,0.0,4.3,338
+SKU-421,Lipstick - Model 96,Beauty & Footwear,Lipstick,SELLER-0197,199.22,393.8,7.5,4.3,971
+SKU-422,Lipstick - Model 93,Beauty & Footwear,Lipstick,SELLER-0135,102.79,211.97,17.3,4.5,262
+SKU-423,Lipstick - Model 43,Beauty & Footwear,Lipstick,SELLER-0187,447.07,725.08,9.2,3.2,356
+SKU-424,Lipstick - Model 30,Beauty & Footwear,Lipstick,SELLER-0103,330.09,697.93,26.9,3.5,692
+SKU-425,Lipstick - Model 62,Beauty & Footwear,Lipstick,SELLER-0142,180.43,240.41,16.1,3.8,85
+SKU-426,Skincare Combo - Model 57,Beauty & Footwear,Skincare Combo,SELLER-0140,124.19,272.4,0.0,3.3,259
+SKU-427,Skincare Combo - Model 68,Beauty & Footwear,Skincare Combo,SELLER-0148,388.92,771.31,29.6,4.7,898
+SKU-428,Skincare Combo - Model 84,Beauty & Footwear,Skincare Combo,SELLER-0149,323.23,428.82,15.0,4.7,483
+SKU-429,Skincare Combo - Model 85,Beauty & Footwear,Skincare Combo,SELLER-0136,121.72,241.54,9.3,4.1,857
+SKU-430,Skincare Combo - Model 81,Beauty & Footwear,Skincare Combo,SELLER-0127,220.55,406.0,24.6,4.2,423
+SKU-431,Skincare Combo - Model 78,Beauty & Footwear,Skincare Combo,SELLER-0121,259.22,508.94,19.6,4.6,957
+SKU-432,Skincare Combo - Model 27,Beauty & Footwear,Skincare Combo,SELLER-0154,301.65,570.32,14.7,4.3,962
+SKU-433,Skincare Combo - Model 42,Beauty & Footwear,Skincare Combo,SELLER-0177,90.59,190.04,21.1,4.0,177
+SKU-434,Skincare Combo - Model 12,Beauty & Footwear,Skincare Combo,SELLER-0102,142.79,214.58,21.5,3.2,688
+SKU-435,Skincare Combo - Model 43,Beauty & Footwear,Skincare Combo,SELLER-0147,447.3,866.7,7.7,4.8,530
+SKU-436,Skincare Combo - Model 36,Beauty & Footwear,Skincare Combo,SELLER-0191,176.54,271.03,0.0,3.8,700
+SKU-437,Skincare Combo - Model 94,Beauty & Footwear,Skincare Combo,SELLER-0155,154.16,266.54,17.8,4.4,656
+SKU-438,Skincare Combo - Model 98,Beauty & Footwear,Skincare Combo,SELLER-0111,169.81,303.37,22.7,4.0,52
+SKU-439,Skincare Combo - Model 24,Beauty & Footwear,Skincare Combo,SELLER-0172,270.87,505.69,26.4,4.4,172
+SKU-440,Skincare Combo - Model 39,Beauty & Footwear,Skincare Combo,SELLER-0130,374.66,692.78,28.4,3.6,146
+SKU-441,Skincare Combo - Model 44,Beauty & Footwear,Skincare Combo,SELLER-0131,141.58,194.44,5.3,4.0,826
+SKU-442,Skincare Combo - Model 22,Beauty & Footwear,Skincare Combo,SELLER-0119,261.18,453.58,11.0,4.5,546
+SKU-443,Skincare Combo - Model 88,Beauty & Footwear,Skincare Combo,SELLER-0183,95.15,167.6,0.0,4.3,226
+SKU-444,Skincare Combo - Model 32,Beauty & Footwear,Skincare Combo,SELLER-0195,98.69,173.37,0.0,4.7,362
+SKU-445,Skincare Combo - Model 46,Beauty & Footwear,Skincare Combo,SELLER-0167,188.68,383.53,0.0,3.7,668
+SKU-446,Skincare Combo - Model 72,Beauty & Footwear,Skincare Combo,SELLER-0166,367.23,734.63,0.0,4.7,650
+SKU-447,Skincare Combo - Model 55,Beauty & Footwear,Skincare Combo,SELLER-0161,121.22,240.38,29.3,4.3,398
+SKU-448,Skincare Combo - Model 89,Beauty & Footwear,Skincare Combo,SELLER-0176,86.31,166.83,9.7,3.7,186
+SKU-449,Skincare Combo - Model 45,Beauty & Footwear,Skincare Combo,SELLER-0198,116.07,155.46,0.0,4.6,719
+SKU-450,Skincare Combo - Model 38,Beauty & Footwear,Skincare Combo,SELLER-0181,370.55,561.27,11.9,3.6,279
+SKU-451,Flats - Model 17,Beauty & Footwear,Flats,SELLER-0144,353.38,609.83,0.0,4.4,704
+SKU-452,Flats - Model 21,Beauty & Footwear,Flats,SELLER-0164,162.6,247.37,7.9,3.9,217
+SKU-453,Flats - Model 30,Beauty & Footwear,Flats,SELLER-0107,110.23,230.46,20.3,4.8,548
+SKU-454,Flats - Model 88,Beauty & Footwear,Flats,SELLER-0154,284.62,625.98,7.0,3.9,512
+SKU-455,Flats - Model 11,Beauty & Footwear,Flats,SELLER-0182,99.81,144.5,28.6,4.6,324
+SKU-456,Flats - Model 11,Beauty & Footwear,Flats,SELLER-0159,390.71,738.75,23.0,4.3,733
+SKU-457,Flats - Model 37,Beauty & Footwear,Flats,SELLER-0150,136.38,247.88,0.0,4.4,959
+SKU-458,Flats - Model 52,Beauty & Footwear,Flats,SELLER-0106,314.2,436.85,0.0,3.6,670
+SKU-459,Flats - Model 58,Beauty & Footwear,Flats,SELLER-0170,420.06,916.12,19.5,3.2,185
+SKU-460,Flats - Model 82,Beauty & Footwear,Flats,SELLER-0111,391.48,694.48,19.6,4.2,414
+SKU-461,Flats - Model 44,Beauty & Footwear,Flats,SELLER-0186,417.24,761.69,16.0,3.8,527
+SKU-462,Flats - Model 28,Beauty & Footwear,Flats,SELLER-0185,412.73,557.0,24.7,3.7,178
+SKU-463,Flats - Model 96,Beauty & Footwear,Flats,SELLER-0114,245.67,399.13,0.0,3.6,51
+SKU-464,Flats - Model 43,Beauty & Footwear,Flats,SELLER-0150,200.46,418.1,12.6,4.4,421
+SKU-465,Flats - Model 72,Beauty & Footwear,Flats,SELLER-0140,271.22,547.43,9.0,3.4,958
+SKU-466,Flats - Model 75,Beauty & Footwear,Flats,SELLER-0197,269.0,511.02,14.5,4.7,956
+SKU-467,Flats - Model 81,Beauty & Footwear,Flats,SELLER-0179,164.85,218.0,0.0,3.3,1000
+SKU-468,Flats - Model 81,Beauty & Footwear,Flats,SELLER-0138,137.44,208.06,10.6,3.9,673
+SKU-469,Flats - Model 89,Beauty & Footwear,Flats,SELLER-0164,205.89,365.3,17.2,4.0,185
+SKU-470,Flats - Model 66,Beauty & Footwear,Flats,SELLER-0195,125.13,203.44,9.1,3.4,374
+SKU-471,Flats - Model 10,Beauty & Footwear,Flats,SELLER-0192,155.32,275.59,0.0,4.5,240
+SKU-472,Flats - Model 46,Beauty & Footwear,Flats,SELLER-0161,130.85,197.14,16.4,3.4,505
+SKU-473,Flats - Model 48,Beauty & Footwear,Flats,SELLER-0109,301.7,486.03,6.2,4.3,926
+SKU-474,Flats - Model 64,Beauty & Footwear,Flats,SELLER-0131,139.64,256.4,18.9,4.3,974
+SKU-475,Flats - Model 72,Beauty & Footwear,Flats,SELLER-0159,157.6,340.49,0.0,4.9,593
+SKU-476,Sneakers - Model 53,Beauty & Footwear,Sneakers,SELLER-0168,150.0,281.42,22.1,4.1,854
+SKU-477,Sneakers - Model 32,Beauty & Footwear,Sneakers,SELLER-0154,429.35,619.64,0.0,4.2,869
+SKU-478,Sneakers - Model 57,Beauty & Footwear,Sneakers,SELLER-0113,349.09,628.74,17.7,4.4,642
+SKU-479,Sneakers - Model 76,Beauty & Footwear,Sneakers,SELLER-0191,327.16,580.71,25.0,4.2,326
+SKU-480,Sneakers - Model 33,Beauty & Footwear,Sneakers,SELLER-0172,124.44,253.37,10.9,3.4,707
+SKU-481,Sneakers - Model 10,Beauty & Footwear,Sneakers,SELLER-0153,174.43,258.23,23.6,4.7,376
+SKU-482,Sneakers - Model 53,Beauty & Footwear,Sneakers,SELLER-0125,379.98,560.82,0.0,4.4,779
+SKU-483,Sneakers - Model 22,Beauty & Footwear,Sneakers,SELLER-0199,300.44,425.08,0.0,3.3,997
+SKU-484,Sneakers - Model 82,Beauty & Footwear,Sneakers,SELLER-0187,429.07,629.33,0.0,4.5,897
+SKU-485,Sneakers - Model 90,Beauty & Footwear,Sneakers,SELLER-0199,389.45,517.48,0.0,4.3,747
+SKU-486,Sneakers - Model 68,Beauty & Footwear,Sneakers,SELLER-0129,121.29,178.71,0.0,4.3,53
+SKU-487,Sneakers - Model 94,Beauty & Footwear,Sneakers,SELLER-0167,322.47,612.19,9.3,3.6,564
+SKU-488,Sneakers - Model 40,Beauty & Footwear,Sneakers,SELLER-0174,352.59,751.2,0.0,3.4,982
+SKU-489,Sneakers - Model 31,Beauty & Footwear,Sneakers,SELLER-0147,263.43,534.78,15.8,4.2,129
+SKU-490,Sneakers - Model 16,Beauty & Footwear,Sneakers,SELLER-0119,192.22,269.17,25.9,4.3,532
+SKU-491,Sneakers - Model 30,Beauty & Footwear,Sneakers,SELLER-0136,187.63,349.21,0.0,3.3,443
+SKU-492,Sneakers - Model 83,Beauty & Footwear,Sneakers,SELLER-0175,312.55,428.0,0.0,4.7,265
+SKU-493,Sneakers - Model 20,Beauty & Footwear,Sneakers,SELLER-0112,425.58,769.84,19.4,3.4,465
+SKU-494,Sneakers - Model 55,Beauty & Footwear,Sneakers,SELLER-0108,424.55,887.86,0.0,3.8,353
+SKU-495,Sneakers - Model 12,Beauty & Footwear,Sneakers,SELLER-0197,133.25,225.7,0.0,4.3,179
+SKU-496,Sneakers - Model 38,Beauty & Footwear,Sneakers,SELLER-0113,223.92,359.52,7.3,4.9,69
+SKU-497,Sneakers - Model 37,Beauty & Footwear,Sneakers,SELLER-0150,398.3,786.79,26.5,3.6,847
+SKU-498,Sneakers - Model 70,Beauty & Footwear,Sneakers,SELLER-0183,167.61,258.64,29.3,4.6,143
+SKU-499,Sneakers - Model 98,Beauty & Footwear,Sneakers,SELLER-0170,179.71,380.77,26.6,3.6,98
+SKU-500,Sneakers - Model 32,Beauty & Footwear,Sneakers,SELLER-0114,144.39,292.31,9.8,3.5,923
+SKU-501,Earrings - Model 70,Jewelry & Accessories,Earrings,SELLER-0118,202.18,283.43,0.0,4.3,82
+SKU-502,Earrings - Model 36,Jewelry & Accessories,Earrings,SELLER-0197,346.43,466.8,10.8,3.2,87
+SKU-503,Earrings - Model 59,Jewelry & Accessories,Earrings,SELLER-0159,329.16,592.91,21.9,3.5,206
+SKU-504,Earrings - Model 83,Jewelry & Accessories,Earrings,SELLER-0121,200.62,414.07,13.4,4.6,770
+SKU-505,Earrings - Model 96,Jewelry & Accessories,Earrings,SELLER-0136,262.9,394.43,0.0,4.2,354
+SKU-506,Earrings - Model 57,Jewelry & Accessories,Earrings,SELLER-0146,412.77,890.32,0.0,3.9,280
+SKU-507,Earrings - Model 55,Jewelry & Accessories,Earrings,SELLER-0196,422.41,887.25,0.0,4.8,501
+SKU-508,Earrings - Model 30,Jewelry & Accessories,Earrings,SELLER-0133,241.69,412.49,26.1,3.5,983
+SKU-509,Earrings - Model 99,Jewelry & Accessories,Earrings,SELLER-0162,224.24,391.01,19.7,3.7,414
+SKU-510,Earrings - Model 52,Jewelry & Accessories,Earrings,SELLER-0122,359.77,562.98,22.3,3.8,850
+SKU-511,Earrings - Model 64,Jewelry & Accessories,Earrings,SELLER-0134,438.93,628.81,0.0,4.0,103
+SKU-512,Earrings - Model 58,Jewelry & Accessories,Earrings,SELLER-0135,164.88,226.68,29.0,4.8,90
+SKU-513,Earrings - Model 98,Jewelry & Accessories,Earrings,SELLER-0183,149.95,309.71,20.6,4.8,277
+SKU-514,Earrings - Model 18,Jewelry & Accessories,Earrings,SELLER-0114,238.43,336.32,13.6,4.7,629
+SKU-515,Earrings - Model 87,Jewelry & Accessories,Earrings,SELLER-0148,148.5,205.34,21.0,4.8,375
+SKU-516,Earrings - Model 45,Jewelry & Accessories,Earrings,SELLER-0124,174.38,241.35,0.0,4.5,268
+SKU-517,Earrings - Model 91,Jewelry & Accessories,Earrings,SELLER-0160,306.09,615.26,15.4,4.1,593
+SKU-518,Earrings - Model 75,Jewelry & Accessories,Earrings,SELLER-0131,205.21,399.43,13.8,4.1,279
+SKU-519,Earrings - Model 64,Jewelry & Accessories,Earrings,SELLER-0134,198.65,371.53,24.1,4.0,628
+SKU-520,Earrings - Model 71,Jewelry & Accessories,Earrings,SELLER-0134,129.2,253.27,20.8,4.3,109
+SKU-521,Earrings - Model 48,Jewelry & Accessories,Earrings,SELLER-0128,222.3,322.52,15.1,3.6,556
+SKU-522,Earrings - Model 96,Jewelry & Accessories,Earrings,SELLER-0168,201.29,407.84,16.3,4.7,944
+SKU-523,Earrings - Model 65,Jewelry & Accessories,Earrings,SELLER-0162,422.77,839.9,0.0,4.5,159
+SKU-524,Earrings - Model 52,Jewelry & Accessories,Earrings,SELLER-0168,82.11,170.19,18.1,4.5,957
+SKU-525,Earrings - Model 86,Jewelry & Accessories,Earrings,SELLER-0134,218.06,304.58,20.1,3.6,977
+SKU-526,Necklace Set - Model 30,Jewelry & Accessories,Necklace Set,SELLER-0137,232.71,317.4,19.1,4.2,525
+SKU-527,Necklace Set - Model 53,Jewelry & Accessories,Necklace Set,SELLER-0122,160.05,337.67,0.0,3.2,200
+SKU-528,Necklace Set - Model 89,Jewelry & Accessories,Necklace Set,SELLER-0148,401.33,753.12,0.0,3.3,834
+SKU-529,Necklace Set - Model 81,Jewelry & Accessories,Necklace Set,SELLER-0163,209.82,283.26,0.0,3.5,626
+SKU-530,Necklace Set - Model 41,Jewelry & Accessories,Necklace Set,SELLER-0149,108.23,207.33,0.0,3.7,876
+SKU-531,Necklace Set - Model 62,Jewelry & Accessories,Necklace Set,SELLER-0136,372.44,520.49,8.9,4.2,722
+SKU-532,Necklace Set - Model 46,Jewelry & Accessories,Necklace Set,SELLER-0110,323.38,481.9,18.3,3.2,631
+SKU-533,Necklace Set - Model 38,Jewelry & Accessories,Necklace Set,SELLER-0120,342.39,683.01,27.3,3.7,122
+SKU-534,Necklace Set - Model 21,Jewelry & Accessories,Necklace Set,SELLER-0159,108.72,159.89,0.0,3.6,773
+SKU-535,Necklace Set - Model 72,Jewelry & Accessories,Necklace Set,SELLER-0104,309.07,429.98,0.0,4.6,655
+SKU-536,Necklace Set - Model 17,Jewelry & Accessories,Necklace Set,SELLER-0171,252.15,509.27,0.0,3.6,702
+SKU-537,Necklace Set - Model 23,Jewelry & Accessories,Necklace Set,SELLER-0154,376.73,759.18,20.2,4.0,473
+SKU-538,Necklace Set - Model 16,Jewelry & Accessories,Necklace Set,SELLER-0111,95.96,208.48,27.8,4.6,531
+SKU-539,Necklace Set - Model 47,Jewelry & Accessories,Necklace Set,SELLER-0107,80.6,154.76,0.0,4.1,185
+SKU-540,Necklace Set - Model 57,Jewelry & Accessories,Necklace Set,SELLER-0181,329.97,661.34,26.7,4.1,436
+SKU-541,Necklace Set - Model 22,Jewelry & Accessories,Necklace Set,SELLER-0101,274.86,441.11,0.0,4.0,56
+SKU-542,Necklace Set - Model 73,Jewelry & Accessories,Necklace Set,SELLER-0108,386.86,537.82,23.8,3.4,169
+SKU-543,Necklace Set - Model 31,Jewelry & Accessories,Necklace Set,SELLER-0190,226.43,463.25,28.6,3.3,148
+SKU-544,Necklace Set - Model 14,Jewelry & Accessories,Necklace Set,SELLER-0116,421.4,863.45,27.3,4.7,801
+SKU-545,Necklace Set - Model 58,Jewelry & Accessories,Necklace Set,SELLER-0173,152.49,235.1,5.1,3.8,524
+SKU-546,Necklace Set - Model 65,Jewelry & Accessories,Necklace Set,SELLER-0179,271.72,469.85,0.0,4.6,162
+SKU-547,Necklace Set - Model 46,Jewelry & Accessories,Necklace Set,SELLER-0179,192.82,264.82,24.4,3.9,906
+SKU-548,Necklace Set - Model 32,Jewelry & Accessories,Necklace Set,SELLER-0172,135.43,194.56,0.0,3.8,841
+SKU-549,Necklace Set - Model 27,Jewelry & Accessories,Necklace Set,SELLER-0176,426.65,749.28,15.8,3.4,114
+SKU-550,Necklace Set - Model 72,Jewelry & Accessories,Necklace Set,SELLER-0103,401.02,577.61,26.3,4.5,659
+SKU-551,Handbags - Model 59,Jewelry & Accessories,Handbags,SELLER-0141,200.93,436.99,28.1,3.5,783
+SKU-552,Handbags - Model 20,Jewelry & Accessories,Handbags,SELLER-0167,325.45,655.29,25.8,3.6,587
+SKU-553,Handbags - Model 16,Jewelry & Accessories,Handbags,SELLER-0143,337.27,726.07,29.3,3.2,951
+SKU-554,Handbags - Model 31,Jewelry & Accessories,Handbags,SELLER-0138,132.41,202.14,15.5,3.6,433
+SKU-555,Handbags - Model 32,Jewelry & Accessories,Handbags,SELLER-0130,122.69,210.62,17.6,4.0,177
+SKU-556,Handbags - Model 97,Jewelry & Accessories,Handbags,SELLER-0125,136.84,196.93,22.3,4.2,702
+SKU-557,Handbags - Model 26,Jewelry & Accessories,Handbags,SELLER-0102,166.99,334.04,15.6,4.4,886
+SKU-558,Handbags - Model 69,Jewelry & Accessories,Handbags,SELLER-0136,193.67,405.93,0.0,4.5,617
+SKU-559,Handbags - Model 11,Jewelry & Accessories,Handbags,SELLER-0164,417.45,773.72,0.0,4.6,356
+SKU-560,Handbags - Model 88,Jewelry & Accessories,Handbags,SELLER-0156,165.24,318.61,15.4,4.7,825
+SKU-561,Handbags - Model 65,Jewelry & Accessories,Handbags,SELLER-0123,290.03,385.3,0.0,4.5,673
+SKU-562,Handbags - Model 65,Jewelry & Accessories,Handbags,SELLER-0184,195.4,361.28,0.0,4.9,92
+SKU-563,Handbags - Model 42,Jewelry & Accessories,Handbags,SELLER-0192,262.32,573.32,0.0,4.9,385
+SKU-564,Handbags - Model 42,Jewelry & Accessories,Handbags,SELLER-0142,316.04,652.25,27.7,3.8,522
+SKU-565,Handbags - Model 25,Jewelry & Accessories,Handbags,SELLER-0132,334.51,705.88,13.6,3.6,526
+SKU-566,Handbags - Model 74,Jewelry & Accessories,Handbags,SELLER-0196,295.34,552.89,0.0,4.7,525
+SKU-567,Handbags - Model 37,Jewelry & Accessories,Handbags,SELLER-0119,426.79,853.22,24.2,3.9,378
+SKU-568,Handbags - Model 42,Jewelry & Accessories,Handbags,SELLER-0197,351.44,656.64,0.0,4.7,836
+SKU-569,Handbags - Model 86,Jewelry & Accessories,Handbags,SELLER-0199,375.63,819.89,13.6,3.7,110
+SKU-570,Handbags - Model 34,Jewelry & Accessories,Handbags,SELLER-0194,91.13,120.76,26.2,3.6,475
+SKU-571,Handbags - Model 51,Jewelry & Accessories,Handbags,SELLER-0197,394.93,856.4,0.0,4.7,256
+SKU-572,Handbags - Model 80,Jewelry & Accessories,Handbags,SELLER-0171,143.71,313.38,0.0,3.6,858
+SKU-573,Handbags - Model 52,Jewelry & Accessories,Handbags,SELLER-0193,170.54,275.29,25.2,4.9,842
+SKU-574,Handbags - Model 77,Jewelry & Accessories,Handbags,SELLER-0177,436.41,867.87,24.3,4.3,360
+SKU-575,Handbags - Model 87,Jewelry & Accessories,Handbags,SELLER-0182,135.04,176.2,10.5,4.4,610
+SKU-576,Smartwatches - Model 10,Jewelry & Accessories,Smartwatches,SELLER-0115,154.68,313.77,14.9,4.5,129
+SKU-577,Smartwatches - Model 56,Jewelry & Accessories,Smartwatches,SELLER-0187,249.07,541.41,0.0,3.7,141
+SKU-578,Smartwatches - Model 24,Jewelry & Accessories,Smartwatches,SELLER-0111,211.77,422.45,0.0,3.8,207
+SKU-579,Smartwatches - Model 37,Jewelry & Accessories,Smartwatches,SELLER-0109,210.85,389.78,0.0,3.3,416
+SKU-580,Smartwatches - Model 79,Jewelry & Accessories,Smartwatches,SELLER-0160,403.86,859.22,19.4,3.3,256
+SKU-581,Smartwatches - Model 86,Jewelry & Accessories,Smartwatches,SELLER-0158,405.78,660.55,16.0,4.5,821
+SKU-582,Smartwatches - Model 27,Jewelry & Accessories,Smartwatches,SELLER-0116,402.55,657.6,0.0,4.8,620
+SKU-583,Smartwatches - Model 21,Jewelry & Accessories,Smartwatches,SELLER-0108,91.26,166.13,0.0,3.6,86
+SKU-584,Smartwatches - Model 27,Jewelry & Accessories,Smartwatches,SELLER-0159,260.61,371.24,0.0,3.8,456
+SKU-585,Smartwatches - Model 82,Jewelry & Accessories,Smartwatches,SELLER-0138,134.03,251.83,18.8,4.6,588
+SKU-586,Smartwatches - Model 32,Jewelry & Accessories,Smartwatches,SELLER-0149,399.5,855.26,25.2,3.9,281
+SKU-587,Smartwatches - Model 98,Jewelry & Accessories,Smartwatches,SELLER-0183,117.17,184.95,0.0,3.3,397
+SKU-588,Smartwatches - Model 39,Jewelry & Accessories,Smartwatches,SELLER-0177,266.09,550.25,29.8,3.7,322
+SKU-589,Smartwatches - Model 33,Jewelry & Accessories,Smartwatches,SELLER-0156,346.85,542.01,5.8,3.8,870
+SKU-590,Smartwatches - Model 42,Jewelry & Accessories,Smartwatches,SELLER-0194,221.14,309.78,17.7,3.5,976
+SKU-591,Smartwatches - Model 74,Jewelry & Accessories,Smartwatches,SELLER-0196,103.4,180.69,8.4,4.1,659
+SKU-592,Smartwatches - Model 50,Jewelry & Accessories,Smartwatches,SELLER-0140,402.67,652.4,0.0,4.0,302
+SKU-593,Smartwatches - Model 81,Jewelry & Accessories,Smartwatches,SELLER-0175,188.34,393.52,0.0,4.1,653
+SKU-594,Smartwatches - Model 71,Jewelry & Accessories,Smartwatches,SELLER-0121,321.13,513.92,27.8,4.1,653
+SKU-595,Smartwatches - Model 79,Jewelry & Accessories,Smartwatches,SELLER-0123,149.24,301.14,22.3,3.2,716
+SKU-596,Smartwatches - Model 45,Jewelry & Accessories,Smartwatches,SELLER-0120,125.18,163.8,19.8,3.9,162
+SKU-597,Smartwatches - Model 70,Jewelry & Accessories,Smartwatches,SELLER-0158,274.9,555.35,19.1,4.6,82
+SKU-598,Smartwatches - Model 54,Jewelry & Accessories,Smartwatches,SELLER-0157,340.28,609.7,8.2,4.5,658
+SKU-599,Smartwatches - Model 32,Jewelry & Accessories,Smartwatches,SELLER-0128,167.66,269.02,0.0,4.8,905
+SKU-600,Smartwatches - Model 11,Jewelry & Accessories,Smartwatches,SELLER-0105,356.04,664.35,0.0,3.8,409
