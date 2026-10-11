@@ -227,6 +227,6 @@ If no database is found the assistant falls back to CSV files in `./data`, then 
 
 <div align="center">
 
-**Built by Shardul** · Data analytics portfolio project
+**Built by Shardul** · Business analytics portfolio project
 
 </div>
